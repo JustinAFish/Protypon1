@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shadcn/UI Landing Page Template
 
 ## <a href="https://ui.shadcn.com/" target="_blank">ShadcnUI</a> + <a href="https://react.dev/" target="_blank">React</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
@@ -57,3 +58,7 @@ npm install
 ```bash
 npm run dev
 ```
+=======
+# Protypon
+Protypon Website
+>>>>>>> 69b5f84d1272bc8d27bdb46b56532a5ec9a752b0
