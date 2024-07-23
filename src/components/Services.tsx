@@ -33,6 +33,12 @@ const serviceList: ServiceProps[] = [
       "Protypon produces consistent, novel assessments with a consistent level of Assessments.",
     icon: <MagnifierIcon />,
   },
+  {
+    title: "Value",
+    description:
+      "Protypon produces consistent, novel assessments with a consistent level of Assessments.",
+    icon: <MagnifierIcon />,
+  },
 ];
 
 export const Services = () => {
