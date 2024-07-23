@@ -12,25 +12,25 @@ const features: FeatureProps[] = [
     icon: <MedalIcon />,
     title: "Action",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+      "Upload module handbook",
   },
   {
     icon: <MapIcon />,
     title: "Action",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+      "Add any additional content",
   },
   {
     icon: <PlaneIcon />,
     title: "Action",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+      "Generate assessment draft",
   },
   {
     icon: <GiftIcon />,
     title: "Action",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+      "Finalise assessment",
   },
 ];
 
