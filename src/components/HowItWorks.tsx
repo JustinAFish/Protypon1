@@ -10,27 +10,27 @@ interface FeatureProps {
 const features: FeatureProps[] = [
   {
     icon: <MedalIcon />,
-    title: "Action",
+    title: "Upload Handbook",
     description:
-      "Upload module handbook",
+      "Upload module handbook to the tool",
   },
   {
     icon: <MapIcon />,
-    title: "Action",
+    title: "Additional content",
     description:
-      "Add any additional content",
+      "Add any additional content needed for assessment generation",
   },
   {
     icon: <PlaneIcon />,
-    title: "Action",
+    title: "Draft",
     description:
-      "Generate assessment draft",
+      "Generate assessment draft with the click of a button",
   },
   {
     icon: <GiftIcon />,
-    title: "Action",
+    title: "Finalise assessment",
     description:
-      "Finalise assessment",
+      "Finalise the assessment for use in your module",
   },
 ];
 
