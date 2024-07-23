@@ -23,11 +23,11 @@ export const About = () => {
                 Company
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit.
+              Protypon has extensive experience in Academia, the Public Sector, and Consulting. 
+                We are dedicated to leveraging our diverse expertise to create innovative solutions for the education sector.
+
+We have a passion for helping educators focus on the act of educating rather than tedious administrative tasks. 
+                Our goal is to streamline and automate administrative processes, allowing educators to dedicate more time and energy to what they do best – educating.
               </p>
             </div>
 
