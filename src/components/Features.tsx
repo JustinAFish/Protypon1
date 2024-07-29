@@ -20,19 +20,19 @@ const features: FeatureProps[] = [
   {
     title: "Active Querying",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Actively query the created assesments and perform edits on the go.",
     image: image4,
   },
   {
     title: "Intuitive user interface",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Effortlessly generate assessments, customize questions, and analyze scoring rubrics.",
     image: image3,
   },
   {
     title: "AI-Powered insights",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Generate comprehensive summaries and statistics on the created assesments.",
     image: image,
   },
 ];
