@@ -16,9 +16,9 @@ const features: FeatureProps[] = [
   },
   {
     icon: <MapIcon />,
-    title: "Additional content",
+    title: "Extract Assesments",
     description:
-      "Add any additional content needed for assessment generation",
+      "The tool will extract the number and types of the assesments based on the uploaded module",
   },
   {
     icon: <PlaneIcon />,
@@ -30,7 +30,7 @@ const features: FeatureProps[] = [
     icon: <GiftIcon />,
     title: "Finalise assessment",
     description:
-      "Finalise the assessment for use in your module",
+      "Edit the drafts as neccessary and finalise the assessment for use in your module",
   },
 ];
 
